@@ -9,7 +9,8 @@ export default {
        gt(){
            console.log("hahha")
        },
-        lt(){
+        oo(){
+           console.log("fff");
            console.log("ass")
        }
     }
