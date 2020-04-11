@@ -7,11 +7,9 @@ export default {
     name:"jf",
     methods: {
        gt(){
-           //zccc
            console.log("hahha")
        },
         lt(){
-           //zccc
            console.log("ass")
        }
     }
