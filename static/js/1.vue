@@ -3,7 +3,7 @@
     <div>dfdfdfdfdfdf</div>
 </template>
 <script>
-export default {
+export deult {
     name:"jf",
     methods: {
        gt(){
